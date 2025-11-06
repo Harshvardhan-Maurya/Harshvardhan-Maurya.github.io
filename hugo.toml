@@ -2,12 +2,12 @@
 baseURL = "example.org"
 languageCode = "en-us"
 title = "My New Blog"
-theme = "terminal"
+theme = "re-terminal"
 
 [params]
   # Site Parameters
   mainSections = ["blog"]
-  hideSummary = true
+  hideSummary = false
   comments = true
   archives = true
   archiveSection = ["blog"]
@@ -20,8 +20,9 @@ theme = "terminal"
   ShowPageNums = true
   search = true
   searchPlaceholder = "Search..."
-  fullWidthTheme = true
+
   disableScrollToTop = true
+  ReadMore = "Read More"
 
 
 
