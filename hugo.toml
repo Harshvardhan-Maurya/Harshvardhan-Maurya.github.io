@@ -20,7 +20,10 @@ theme = "terminal"
   ShowPageNums = true
   search = true
   searchPlaceholder = "Search..."
+  fullWidthTheme = true
   disableScrollToTop = true
+
+
 
   [params.homeInfoParams]
     Title = "My New Blog"
