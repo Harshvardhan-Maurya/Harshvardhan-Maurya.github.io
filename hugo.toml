@@ -30,8 +30,8 @@ theme = "re-terminal"
     logoText = "Harsh's blog"
 
   [params.homeInfoParams]
-    Title = "My New Blog"
-    Content = "Welcome to my new blog!"
+    Title = "Hi, I'm Harsh!"
+    Content = "Welcome to my blog. This is my personal space where I document my journey and share my thoughts. Find out more [about me](/about/)."
 
   [params.fuseOpts]
     isCaseSensitive = false
