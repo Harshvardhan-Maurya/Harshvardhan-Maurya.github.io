@@ -1,5 +1,5 @@
 # Site Configuration
-baseURL = "/"
+baseURL = "https://Harshvardhan-Maurya.github.io/"
 languageCode = "en-us"
 title = "My New Blog"
 theme = "re-terminal"
@@ -66,3 +66,6 @@ theme = "re-terminal"
   name = "Archives"
   url = "/archives/"
   weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true
