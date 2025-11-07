@@ -1,7 +1,7 @@
 # Site Configuration
 baseURL = "https://Harshvardhan-Maurya.github.io/"
 languageCode = "en-us"
-title = "My New Blog"
+title = "Harshvardhan Maurya"
 theme = "re-terminal"
 
 [params]
