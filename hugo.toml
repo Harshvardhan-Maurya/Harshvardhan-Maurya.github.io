@@ -1,5 +1,5 @@
 # Site Configuration
-baseURL = "example.org"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Blog"
 theme = "re-terminal"
@@ -11,8 +11,7 @@ theme = "re-terminal"
   comments = true
   archives = true
   archiveSection = ["blog"]
-  defaultTheme = "dark"
-  disableThemeToggle = true
+
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   ShowReadingTime = true
