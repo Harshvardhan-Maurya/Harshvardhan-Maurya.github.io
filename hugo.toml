@@ -26,7 +26,8 @@ theme = "re-terminal"
   ReadOtherPosts = "Read other blogs"
   ReadMore = "Read More"
 
-
+  [languages.en.params.logo]
+    logoText = "Harsh's blog"
 
   [params.homeInfoParams]
     Title = "My New Blog"

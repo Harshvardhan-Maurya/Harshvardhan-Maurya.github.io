@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on My New Blog</title>
-    <link>/tags/general/</link>
+    <link>//localhost:1313/tags/general/</link>
     <description>Recent content in General on My New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 19:06:13 +0530</lastBuildDate><atom:link href="/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Nov 2025 19:06:13 +0530</lastBuildDate><atom:link href="//localhost:1313/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
-      <link>/blog/third-post/</link>
+      <link>//localhost:1313/blog/third-post/</link>
       <pubDate>Thu, 06 Nov 2025 19:06:13 +0530</pubDate>
       
-      <guid>/blog/third-post/</guid>
+      <guid>//localhost:1313/blog/third-post/</guid>
       <description>&lt;p&gt;This is my third blog post. I&amp;rsquo;m getting the hang of this.&lt;/p&gt;
-&lt;p&gt;Check out my &lt;a href=&#34;/blog/first-post&#34;&gt;first post&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Check out my &lt;a href=&#34;//localhost:1313/blog/first-post/&#34;&gt;first post&lt;/a&gt;.&lt;/p&gt;</description>
       <content>&lt;p&gt;This is my third blog post. I&amp;rsquo;m getting the hang of this.&lt;/p&gt;
-&lt;p&gt;Check out my &lt;a href=&#34;/blog/first-post&#34;&gt;first post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out my &lt;a href=&#34;//localhost:1313/blog/first-post/&#34;&gt;first post&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>/blog/first-post/</link>
+      <link>//localhost:1313/blog/first-post/</link>
       <pubDate>Thu, 06 Nov 2025 19:04:13 +0530</pubDate>
       
-      <guid>/blog/first-post/</guid>
+      <guid>//localhost:1313/blog/first-post/</guid>
       <description>&lt;p&gt;This is my first blog post. I&amp;rsquo;m just getting started with Hugo.&lt;/p&gt;</description>
       <content>&lt;p&gt;This is my first blog post. I&amp;rsquo;m just getting started with Hugo.&lt;/p&gt;
-&lt;p&gt;Check out my &lt;a href=&#34;/blog/second-post&#34;&gt;second post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out my &lt;a href=&#34;//localhost:1313/blog/second-post/&#34;&gt;second post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content>
     </item>
     
