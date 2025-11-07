@@ -1,0 +1,37 @@
+/* 1. Define the base Gruvbox palette */
+:root {
+  --gruvbox-bg: #282828;
+  --gruvbox-fg: #ebdbb2;
+  --gruvbox-red: #cc241d;
+  --gruvbox-green: #98971a;
+  --gruvbox-yellow: #d79921;
+  --gruvbox-blue: #458588;
+  --gruvbox-purple: #b16286;
+  --gruvbox-aqua: #689d6a;
+  --gruvbox-gray: #928374;
+  --gruvbox-orange: #d65d0e;
+}
+
+/* 2. Apply the Gruvbox palette to the theme's variables on the `body` tag for higher specificity */
+body {
+  /* Main Theme Colors */
+  --background: var(--gruvbox-bg) !important;
+  --color: var(--gruvbox-fg) !important;
+  --accent: var(--gruvbox-yellow) !important;
+  --accent-contrast-color: var(--gruvbox-bg) !important;
+  --border-color: rgba(235, 219, 178, 0.1) !important;
+  --menu-color: var(--gruvbox-fg) !important;
+
+  /* Syntax Highlighting - Overriding the theme's !important tags */
+  --syntax-value-color: var(--gruvbox-green) !important;       /* strings, numbers, keywords */
+  --syntax-var-color: var(--gruvbox-blue) !important;          /* variables, properties, tags */
+  --syntax-func-color: var(--gruvbox-aqua) !important;         /* functions */
+  --syntax-punctuation-color: var(--gruvbox-fg) !important;    /* punctuation */
+  --syntax-comment-color: var(--gruvbox-gray) !important;       /* comments */
+}
+
+/* 3. Override any remaining hardcoded theme elements */
+pre {
+  border-top: 1px solid var(--border-color) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
