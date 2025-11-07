@@ -1,5 +1,17 @@
-body {
-  --accent: #33d17a;
-  --accent-contrast-color:#000000 ;
-}
+:root {
+  --accent: #d79921 !important; /* Gruvbox Yellow */
+  --accent-contrast-color: #1d2021 !important; /* Gruvbox Background Hard */
+  --background: #1d2021 !important; /* Gruvbox Background Hard */
+  --color: #ebdbb2 !important; /* Gruvbox Foreground */
+  --menu-color: #ebdbb2 !important; /* Gruvbox Foreground */
+  --border-color: rgba(235, 219, 178, 0.1) !important; /* Gruvbox Foreground with transparency */
 
+  /* Gruvbox specific colors for potential use */
+  --gruvbox-red: #cc241d !important;
+  --gruvbox-green: #98971a !important;
+  --gruvbox-yellow: #d79921 !important;
+  --gruvbox-blue: #458588 !important;
+  --gruvbox-purple: #b16286 !important;
+  --gruvbox-aqua: #689d6a !important;
+  --gruvbox-orange: #d65d0e !important;
+}
