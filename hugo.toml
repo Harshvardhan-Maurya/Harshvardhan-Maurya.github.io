@@ -20,7 +20,10 @@ theme = "re-terminal"
   search = true
   searchPlaceholder = "Search..."
 
+  contentTypeName = "blog"
+
   disableScrollToTop = true
+  ReadOtherPosts = "Read other blogs"
   ReadMore = "Read More"
 
 
